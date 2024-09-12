@@ -20,13 +20,8 @@ describe('UserController', () => {
       },
       {
         id: 2,
-        name: 'Fernanda',
+        name: 'Giselly',
         age: 20,
-      },
-      {
-        id: 3,
-        name: 'Carlos',
-        age: 30,
       },
     ];
 
@@ -39,14 +34,8 @@ describe('UserController', () => {
       },
       {
         id: 2,
-        name: 'Fernanda',
+        name: 'Giselly',
         age: 20,
-        isOfAge: true,
-      },
-      {
-        id: 3,
-        name: 'Carlos',
-        age: 30,
         isOfAge: true,
       },
     ];
